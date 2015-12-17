@@ -1,0 +1,11 @@
+# Site settings
+title: ProgressiveEnhancementExamples
+description: > # this means to ignore newlines until "baseurl:"
+  A directory of HTML, CSS, and JS snippets, built up using Progressive Enhancement.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+
+sass:
+    style: :compressed
